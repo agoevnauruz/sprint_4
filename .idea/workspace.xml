@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f59f274a-df86-4f91-bcc7-8e05303e9daf" name="Changes" comment="" />
+    <list default="true" id="1f59e002-f802-43a5-8317-57d123467291" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/scooterTest/CheckDropdownTextChromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scooterTest/CheckOrderLowerButtonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scooterTest/CheckOrderUpperButtonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scooterTest/TestBaseChrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scooterTest/TestBaseFox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yandex/ConfirmOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yandex/DropdownTextStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yandex/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yandex/OrderFirstPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yandex/OrderSecondPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yandex/OrderStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +29,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2KK9NiL9aEzSirnmtCQEelcFBoF" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KWxqXkvAC0cZncF88csu7MAXP5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,23 +47,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f59f274a-df86-4f91-bcc7-8e05303e9daf" name="Changes" comment="" />
-      <created>1673712371891</created>
+      <changelist id="1f59e002-f802-43a5-8317-57d123467291" name="Changes" comment="" />
+      <created>1674104332044</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1673712371891</updated>
+      <updated>1674104332044</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
