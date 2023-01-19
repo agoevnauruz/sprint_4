@@ -1,8 +1,10 @@
-package scooterTest;
+package ScooterTest;
 
 import org.junit.Test;
 import ru.praktikum.yandex.DropdownTextStatus;
 import ru.praktikum.yandex.MainPage;
+
+import static org.junit.Assert.assertEquals;
 
 public class CheckDropdownTextChromeTest extends TestBaseChrome {
 

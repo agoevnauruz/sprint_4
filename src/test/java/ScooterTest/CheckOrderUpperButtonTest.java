@@ -1,4 +1,4 @@
-package scooterTest;
+package ScooterTest;
 
 import org.junit.Test;
 import ru.praktikum.yandex.*;

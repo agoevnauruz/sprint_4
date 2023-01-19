@@ -5,28 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f59e002-f802-43a5-8317-57d123467291" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/scooterTest/CheckDropdownTextChromeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scooterTest/CheckOrderLowerButtonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scooterTest/CheckOrderUpperButtonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scooterTest/TestBaseChrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scooterTest/TestBaseFox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yandex/ConfirmOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yandex/DropdownTextStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yandex/MainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yandex/OrderFirstPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yandex/OrderSecondPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yandex/OrderStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scooterTest/CheckDropdownTextChromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ScooterTest/CheckDropdownTextChromeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scooterTest/CheckOrderLowerButtonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ScooterTest/CheckOrderLowerButtonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scooterTest/CheckOrderUpperButtonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ScooterTest/CheckOrderUpperButtonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scooterTest/TestBaseChrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ScooterTest/TestBaseChrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scooterTest/TestBaseFox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ScooterTest/TestBaseFox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yandex/ConfirmOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/praktikum/yandex/ConfirmOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yandex/DropdownTextStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/praktikum/yandex/DropdownTextStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yandex/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/praktikum/yandex/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yandex/OrderFirstPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/praktikum/yandex/OrderFirstPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yandex/OrderSecondPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/praktikum/yandex/OrderSecondPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yandex/OrderStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/praktikum/yandex/OrderStatus.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -41,9 +51,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/naur/qa_java/sprint_4/src/test/java/ScooterTest",
+    "settings.editor.selected.configurable": "Errors"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/ScooterTest" />
+      <recent name="$PROJECT_DIR$/src/main/java/ru/praktikum/yandex" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,5 +72,16 @@
       <updated>1674104332044</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
